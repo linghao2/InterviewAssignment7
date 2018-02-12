@@ -16,7 +16,7 @@
 		CE1C83C920321952005AF4B4 /* MoviesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C83C820321952005AF4B4 /* MoviesTableViewCell.swift */; };
 		CE1C83CB203248F3005AF4B4 /* UIImageView+Movies.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C83CA203248F3005AF4B4 /* UIImageView+Movies.swift */; };
 		CE1C83CD20325282005AF4B4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = CE1C83CC20325282005AF4B4 /* README.md */; };
-		CE1C83CF20325319005AF4B4 /* assignment7.gif in Resources */ = {isa = PBXBuildFile; fileRef = CE1C83CE20325318005AF4B4 /* assignment7.gif */; };
+		CE1C83D120325489005AF4B4 /* assignment7.gif in Resources */ = {isa = PBXBuildFile; fileRef = CE1C83D020325489005AF4B4 /* assignment7.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		CE1C83C820321952005AF4B4 /* MoviesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesTableViewCell.swift; sourceTree = "<group>"; };
 		CE1C83CA203248F3005AF4B4 /* UIImageView+Movies.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImageView+Movies.swift"; sourceTree = "<group>"; };
 		CE1C83CC20325282005AF4B4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		CE1C83CE20325318005AF4B4 /* assignment7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = assignment7.gif; path = ../../../Documents/assignment7.gif; sourceTree = "<group>"; };
+		CE1C83D020325489005AF4B4 /* assignment7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = assignment7.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,7 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				CE1C83CC20325282005AF4B4 /* README.md */,
-				CE1C83CE20325318005AF4B4 /* assignment7.gif */,
+				CE1C83D020325489005AF4B4 /* assignment7.gif */,
 				CE1C83AF20321451005AF4B4 /* Assignment7 */,
 				CE1C83AE20321451005AF4B4 /* Products */,
 			);
@@ -141,7 +141,7 @@
 				CE1C83BB20321451005AF4B4 /* LaunchScreen.storyboard in Resources */,
 				CE1C83B820321451005AF4B4 /* Assets.xcassets in Resources */,
 				CE1C83B620321451005AF4B4 /* Main.storyboard in Resources */,
-				CE1C83CF20325319005AF4B4 /* assignment7.gif in Resources */,
+				CE1C83D120325489005AF4B4 /* assignment7.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
